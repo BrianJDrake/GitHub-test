@@ -20,4 +20,5 @@ the [CC0
 	1.0
 	Public Domain Dedication](
         https://creativecommons.org/publicdomain/zero/1.0/
-    ).
+    ),
+a copy of which is in <LICENSE.txt>.
