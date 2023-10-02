@@ -12,6 +12,12 @@ This author is testing GitHub as part of testing VSCodium.
 This section was added in the branch `pull-request-test`,
 then merged into the main branch via a pull request.
 
+# Pull request test (section 2)
+
+This section was added directly to the main branch;
+together with the section added via the branch `pull-request-test`,
+it forces a merge.
+
 # Copyright waiver
 
 Most works are [automatically covered by copyright](
