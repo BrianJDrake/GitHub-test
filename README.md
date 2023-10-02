@@ -7,6 +7,12 @@
 1302 DE60 2318 89FE 1EBA CADC 5467 8CF7 5A27 8D9C).
 This author is testing GitHub as part of testing VSCodium.
 
+# Pull request test (section 2)
+
+This section was added directly to the main branch;
+together with the section added via the branch `pull-request-test`,
+it forces a merge.
+
 # Copyright waiver
 
 Most works are [automatically covered by copyright](
